@@ -28,8 +28,8 @@
 
 <ol>
 
-<li> Insira seu peso: 70
-<li> Insira sua altura: 1.75
+<li> Insira sua altura cm: 175.
+<li> Insira sua altura em kg: 70.
 <li> Clique em "Calcular IMC".
 <li> O resultado será exibido como "Seu IMC é: 22.86" abaixo do botão.
 
