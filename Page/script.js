@@ -1,11 +1,11 @@
 function CalculateImc(){
-    var alturaEntrada = document.getElementById("altura");
-    var pesoEntrada = document.getElementById("peso");
-    var resultDiv = document.getElementById("result")
+    const alturaEntrada = document.getElementById("altura");
+    const pesoEntrada = document.getElementById("peso");
+    const resultDiv = document.getElementById("result")
 
 
-    var altura = parseFloat(alturaEntrada.value);
-    var peso = parseFloat(pesoEntrada.value);
+    const altura = parseFloat(alturaEntrada.value);
+    const peso = parseFloat(pesoEntrada.value);
 
     if(isNaN(altura) || isNaN(peso)){
         resultDiv.innerHTML = "Por favor, entre com valores de altura e peso válidos"
