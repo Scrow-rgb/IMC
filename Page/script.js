@@ -31,7 +31,7 @@ function CalculateImc(){
         categoria = "Obesidade"
     }
 
-    resultDiv.innerHTML = "Seu IMC é " +imc.toFixed(2) + " (" + categoria + ")";
+    resultDiv.innerHTML = `Seu IMC é ${imc.toFixed(2)} (${categoria}) ` 
     
 
 }
