@@ -3,7 +3,7 @@
  ## Visão geral
 
 
- <p>Este sistema consiste em uma calculadora de Índice de Massa Corporal (IMC) desenvolvida usando HTML e JavaScript. O IMC é calculado com base no peso e altura fornecidos pelo usuário.</p>
+ <p>Este sistema consiste em uma calculadora de Índice de Massa Corporal (IMC) desenvolvida usando HTML e JavaScript. O IMC é calculado com base na altura (cm) e no peso (kg) fornecidos pelo usuário.</p>
 
  ## Uso
 
